@@ -1,1 +1,1 @@
-# Hamoye-Stage-D-work
+# Predicting the Mnist dataset with custom-built neural networks
